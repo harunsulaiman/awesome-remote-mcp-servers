@@ -109,7 +109,10 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 * 🧰 - [Other Tools & Integrations](#other-tools--integrations)
 
 ### 🔗 <a name="aggregators"></a>Aggregators
-- [AIsa](https://aisa.one) `https://mcp.aisa.one/mcp`
+
+- [Chain.Love](https://www.chain.love/mcp-gateway) `https://app.chain.love/mcp`
+  [![Chain.Love MCP connector](https://glama.ai/mcp/connectors/love.chain.app/chainlove-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/love.chain.app/chainlove-mcp)
+  🔓 - Discover and compare Web3 infrastructure services such as RPCs, indexers, oracles and storage across 50+ networks.- [AIsa](https://aisa.one) `https://mcp.aisa.one/mcp`
   [![AIsa MCP connector](https://glama.ai/mcp/connectors/one.aisa/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/one.aisa/mcp)
   🔐 - One key for 950+ SEO, finance, social, search, sales and mail APIs; max_price_usd caps spend before each call.
 - [Fatstack](https://www.fatstack.net) `https://echo.fatstack.net/mcp`
